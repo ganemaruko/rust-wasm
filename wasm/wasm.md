@@ -19,5 +19,3 @@ wasm-pack build --target web
 ### we_alloc
 
 - 低速だけど容量の小さなメモリアロケータ
-
-###
